@@ -8,8 +8,3 @@
 	url = https://github.com/cran/gerbil
 	shallow = true
 	registered = true
-[submodule "microsynth"]
-	path = microsynth
-	url = https://github.com/cran/microsynth
-	shallow = true
-	registered = true
