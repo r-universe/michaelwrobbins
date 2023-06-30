@@ -5,3 +5,6 @@
 [submodule "gerbil"]
 	path = gerbil
 	url = https://github.com/cran/gerbil
+[submodule "microsynth"]
+	path = microsynth
+	url = https://github.com/cran/microsynth
